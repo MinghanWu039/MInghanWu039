@@ -1,21 +1,21 @@
-title: cvless
-description: Jekyll theme for a beautiful online CV
+title: Minghan Wu's Personal Website
+description: From Jekyll theme cvless
 baseurl: ""
-url: https://piazzai.github.io/cvless
+url: https://MinghanWu039.github.io/MinghanWu039
 
 theme: cvless
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+taglong: Travis Wu's Personal Website
+tagshort: Travis Wu
 
 # author settings
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Minghan Wu
+  email: traviswu0524@gmail.com
 photo: assets/files/photo.jpg
-address: Foobar Hall 1.23
-phone: +1 234 567 890
+address: 8800 Lombard Pl, San Diego, CA
+phone: 858 210 1530
 
 # social media links
 social:
