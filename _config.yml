@@ -1,7 +1,8 @@
-title: ""
-description: ""
+title: "Minghan Wu Personal Website"
+description: "The personal website of Minghan (Travis) Wu"
 baseurl: ""
 url: ""
+theme: cvless
 
 exclude:
   - demo/
