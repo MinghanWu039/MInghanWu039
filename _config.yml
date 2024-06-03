@@ -1,4 +1,4 @@
-title: Minghan Wu's Personal Website
+title: Minghan Wu (Travis)
 description: From Jekyll theme cvless
 baseurl: ""
 url: https://MinghanWu039.github.io/MinghanWu039
@@ -6,8 +6,8 @@ url: https://MinghanWu039.github.io/MinghanWu039
 theme: cvless
 
 # site settings
-taglong: Travis Wu's Personal Website
-tagshort: Travis Wu
+taglong: Personal Website
+tagshort: Personal Website
 
 # author settings
 author:
@@ -19,12 +19,12 @@ phone: 858 210 1530
 
 # social media links
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  x: username
+  # facebook: username
+  github: https://github.com/MinghanWu039
+  instagram: https://www.instagram.com/minghanwu0524/
+  linkedin: www.linkedin.com/in/minghan-wu-959876259
+  # stackoverflow: 0000000/username
+  # x: username
 
 # build settings
 permalink: pretty
