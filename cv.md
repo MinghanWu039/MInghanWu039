@@ -9,9 +9,9 @@ title: CV
 
 ## Education
 ---------------------
-**University of California - San Diego**
-
 <p style="float: right;">Sept.2022 - June 2026</p>
+
+**University of California - San Diego**
 
 Mathematics - Computer Science (primary major) & Data Science
 
