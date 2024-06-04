@@ -7,15 +7,23 @@ title: CV
 
 {% include contact.html %}
 
-## Section
+## Education
+---------------------
+**University of California - San Diego** Sept.2022 - June 2026
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Mathematics - Computer Science (primary major) & Data Science
 
-* Ut enim ad minim veniam
-* Quis nostrud exercitation
-* Ullamco laboris nisi
-* Ut aliquip ex ea commodo consequat
+Current GPA: 3.96/4.00
 
-### Subsection
+### Coursework
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Object-Oriented Programming, Data Structures & Algorithms, Discrete Math, Linear Algebra, Calculus, Probability & Statistics, Math Analysis, Abstract Algebra, Stochastic Process, Optimization techniques, Basic Finance
+
+### Coursera
+
+* Introduction to Financial Engineering and Risk Management, Columbia University
+* Econometrics: Methods and Applications, Erasmus University Rotterdam
+* HTML, CSS, and Javascript for Web Developers, Johns Hopkins University
+
+
+
